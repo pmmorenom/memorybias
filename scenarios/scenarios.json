@@ -1,0 +1,32 @@
+{
+"T1_study": {
+   "type": "BKT",
+   "params": { "init": 0.0, "learn": 0.1, "slip": 0.05, "guess": 0.1 }
+   },
+
+"T1_retrieval": {
+   "type": "BKT",
+   "params": { "init": 0.0, "learn": 0.1, "slip": 0.05, "guess": 0.1 }
+   },
+
+"T2_study": {
+   "type": "BKT",
+   "params": { "init": 0.0, "learn": 0.1, "slip": 0.05, "guess": 0.1 }
+   },
+
+"T2_retrieval": {
+   "type": "BKT",
+   "params": { "init": 0.1, "learn": 0.2, "slip": 0.05, "guess": 0.1 }
+   },
+
+"T2_study_learn": {
+   "type": "BKT",
+   "params": { "init": 0.1, "learn": 0.2, "slip": 0.05, "guess": 0.1 }
+   },
+
+"T2_retrieval_learn": {
+   "type": "BKT",
+   "params": { "init": 0.3, "learn": 0.6, "slip": 0.05, "guess": 0.1 }
+   }
+}
+
