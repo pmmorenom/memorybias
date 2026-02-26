@@ -1,2 +1,4 @@
 # Memory bias repository
 This repository contains the code with the simulations carried out in the paper "Memory Bias: Analysis of the Effect of Memory on Skill Acquisition", published in Technological Ecosystems for Enhancing Multiculturality (TEEM 2025) conference
+
+This work was supported by Universidad Carlos III de Madrid (UC3M) through the Grants for the Research Activity of Young Doctors of the UC3M’s Own Research and Transfer Program (ASESOR-IA project). Moreover, it was supported by FEDER / Ministerio de Ciencia, Innovación y Universidades - Agencia Estatal de Investigación through the grant PID2023-146692OB-C31 (GENIE Learn project) funded by MICIU/AEI/10.13039/501100\\011033 and by ERDF/UE, by the UNESCO Chair of “Scala-ble Digital Education for All” at UC3M and by the grant RED2022-134284-T funded by MICIU/AEI/10.13039/501100011033.
